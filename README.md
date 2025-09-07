@@ -2,7 +2,7 @@
 Freshman-level project. Builds a grid maze in Roblox by placing walls then carving paths with a DFS backtracker. Uses raycasts between adjacent cells to find and remove walls.
 
 ## Demo
-See `media/demo.mp4`.
+See `media/demo.mp4` or `https://walk3rc04.github.io/portfolio.html`
 
 ## Performance
 On my machine, a 50×50 cell maze generated in ~0.23 seconds.
